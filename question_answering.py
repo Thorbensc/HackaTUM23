@@ -68,9 +68,9 @@ class LogAIAgent():
         
         # Split the context into chunks
         chunks = self.chunker.split_context(context)
-        filtered_chunks = self.chunker.filter_error_chunks(chunks)
+        #filtered_chunks = self.chunker.filter_error_chunks(chunks)
 
-        for chunk in filtered_chunks:
+        for chunk in chunks:
             answer = self._answer_question(chunk, question)
             if answer is not None:
                 answer_vector = self._vectorize_text(answer)

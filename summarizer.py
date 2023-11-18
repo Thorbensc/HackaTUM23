@@ -16,6 +16,7 @@ class LogSummarizer:
         self.embedder = SentenceTransformer('all-MiniLM-L6-v2')
         self.embedder.max_seq_length = 512
         self.corpus = self.chunker.split_context(self.log_data)
+        self.corpus = self.chunker.filter_error_chunks(self.corpus)
         self.corpus_embeddings = self.embedder.encode(self.corpus)
 
     def summarize(self,num_clusters=20) -> str:
