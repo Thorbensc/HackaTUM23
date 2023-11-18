@@ -2,6 +2,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForQuestionAnswering, AutoModel
 from scipy.spatial.distance import cosine
 from chunking import LogChunker
+import Levenshtein
 
 class LogAIAgent():
 
@@ -85,4 +86,30 @@ class LogAIAgent():
         # Return the answers along with their similarities
         return best_answers
 
+    def _discard_time(self, string) -> str:
+        index_of_bracket = string.find(']')
+        if index_of_bracket != -1:
+            return string[index_of_bracket + 1:]
+        else:
+            return string
+    
+    def answer2summary(self, answer, summary) -> str:
+        list_summary = summary.splitlines()
+        list_summary = [entry for entry in list_summary if entry]
+        distances = [Levenshtein.distance(answer, self._discard_time(entry)) for entry in list_summary]
+        # Find the index of the string with the minimum distance
+        min_index = distances.index(min(distances))
+        print(min_index)
+        # Return the string with the highest similarity
+        return list_summary[min_index]
+    
+    def retrieve_log_snippet(self, line, context):
+        line_context = context.splitlines()
+        index = line_context.index(line)
+        range = 10
+        try:
+            return line_context[index-range:index]+line_context[index:index+range]
+        except:
+            print("answer line is at a border of the logfile")
+            return line
     
