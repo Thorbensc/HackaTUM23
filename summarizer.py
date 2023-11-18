@@ -19,6 +19,9 @@ class LogSummarizer:
         self.corpus_embeddings = self.embedder.encode(self.corpus)
 
     def summarize(self,num_clusters=20) -> str:
+        if len(self.corpus) < num_clusters:
+            num_clusters = len(self.corpus)
+            
         clustering_model = KMeans(n_clusters=num_clusters)
         y_kmeans = clustering_model.fit_predict(self.corpus_embeddings)
 
