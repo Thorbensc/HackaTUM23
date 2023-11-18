@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 263.72 403.06">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Poppins-Bold, Poppins;
+        font-size: 100px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #1b2340;
+      }
+
+      .cls-3 {
+        fill: #ee705e;
+      }
+    </style>
+  </defs>
+  <g id="Ebene_3" data-name="Ebene 3">
+    <polygon class="cls-2" points="257.26 128.79 257.26 257.58 131.33 257.58 257.26 128.79"/>
+  </g>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <circle class="cls-2" cx="128.79" cy="128.79" r="128.79"/>
+    <text class="cls-1" transform="translate(5.22 342.46)"><tspan class="cls-3" x="0" y="0">log</tspan><tspan class="cls-2" x="161.1" y="0">ai</tspan></text>
+  </g>
+  <g id="Ebene_1" data-name="Ebene 1">
+    <path class="cls-3" d="m76.03,128.79l10.2-34.8,24.47,82.72L145.86,25.57l22.43,118.47,22.43-67.91,17.84,52.67h48.23l.54,1.57c0-.46.02-.92.02-1.38C257.36,57.84,199.79.18,128.79.18S.32,57.74.22,128.79h75.81Z"/>
+  </g>
+</svg>
