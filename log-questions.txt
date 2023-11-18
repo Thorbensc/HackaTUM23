@@ -1,0 +1,10 @@
+Check for logs indicating potential security breaches or unauthorized access.
+Can you fetch the most recent errors from the log file?
+Can you give me a summary of the three most common errors in the log file?
+Are there any errors in the log file associated with network connectivity issues?
+What errors were logged during the last 4 hours?
+Highlight any critical errors or issues that require immediate attention.
+List the different error categories present in the log file with their percentage in the overall errors.
+Identify recurring patterns in the log entries that might indicate a systemic issue.
+Verify the integrity of the log file. Are there any signs of corruption or missing entries?
+Can you provide information on any performance-related issues recorded in the logs?
