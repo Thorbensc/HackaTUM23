@@ -17,6 +17,8 @@ with st.sidebar:
     This app allows you to query different log files using natural language and get answers from a chatbot powered by our model.
     ''')
 
+    uploaded_file =  st.file_uploader(label="Upload your log file here")
+
 if "messages" not in st.session_state:
     st.session_state.messages=[]
 
