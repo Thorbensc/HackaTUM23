@@ -1,0 +1,636 @@
+[Sun Jan 15 04:11:23 2006] [notice] Digest: generating secret for digest authentication ...
+[Sun Jan 15 04:11:23 2006] [notice] Digest: done
+[Sun Jan 15 04:11:23 2006] [notice] LDAP: Built with OpenLDAP LDAP SDK
+[Sun Jan 15 04:11:23 2006] [notice] LDAP: SSL support unavailable
+[Sun Jan 15 04:11:23 2006] [error] env.createBean2(): Factory error creating channel.jni:jni ( channel.jni, jni)
+[Sun Jan 15 04:11:23 2006] [error] config.update(): Can't create channel.jni:jni
+[Sun Jan 15 04:11:23 2006] [error] env.createBean2(): Factory error creating vm: ( vm, )
+[Sun Jan 15 04:11:23 2006] [error] config.update(): Can't create vm:
+[Sun Jan 15 04:11:23 2006] [error] env.createBean2(): Factory error creating worker.jni:onStartup ( worker.jni, onStartup)
+[Sun Jan 15 04:11:23 2006] [error] config.update(): Can't create worker.jni:onStartup
+[Sun Jan 15 04:11:23 2006] [error] env.createBean2(): Factory error creating worker.jni:onShutdown ( worker.jni, onShutdown)
+[Sun Jan 15 04:11:23 2006] [error] config.update(): Can't create worker.jni:onShutdown
+[Sun Jan 15 04:11:25 2006] [notice] mod_python: Creating 32 session mutexes based on 150 max processes and 0 max threads.
+[Sun Jan 15 04:11:25 2006] [notice] mod_security/1.9dev2 configured
+[Sun Jan 15 04:11:25 2006] [notice] Apache/2.0.49 (Fedora) configured -- resuming normal operations
+[Sun Jan 15 04:11:25 2006] [error] jk2_init() Can't find child 27313 in scoreboard
+[Sun Jan 15 04:11:25 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 04:11:25 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 04:11:25 2006] [error] jk2_init() Can't find child 27314 in scoreboard
+[Sun Jan 15 04:11:25 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 04:11:25 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 04:11:25 2006] [error] jk2_init() Can't find child 27316 in scoreboard
+[Sun Jan 15 04:11:25 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 04:11:25 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 04:11:25 2006] [error] jk2_init() Can't find child 27317 in scoreboard
+[Sun Jan 15 04:11:25 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 04:11:25 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 04:11:25 2006] [error] jk2_init() Can't find child 27318 in scoreboard
+[Sun Jan 15 04:11:25 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 04:11:25 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 04:11:25 2006] [error] jk2_init() Can't find child 27319 in scoreboard
+[Sun Jan 15 04:11:25 2006] [notice] jk2_init() Found child 27315 in scoreboard slot 13
+[Sun Jan 15 04:11:25 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 04:11:25 2006] [error] mod_jk child workerEnv in error state 6
+[Sun Jan 15 04:11:25 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 04:11:25 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 04:11:25 2006] [notice] jk2_init() Found child 27320 in scoreboard slot 1
+[Sun Jan 15 04:11:25 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 04:11:25 2006] [error] mod_jk child workerEnv in error state 6
+[Sun Jan 15 04:17:29 2006] [error] [client 222.78.70.94] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 04:25:54 2006] [error] [client 68.193.179.224] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 05:29:33 2006] [error] [client 203.196.138.5] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 06:23:20 2006] [error] [client 66.214.157.114] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 06:53:16 2006] [error] [client 218.204.92.66] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 07:56:06 2006] [error] [client 64.60.3.98] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 08:48:10 2006] [error] [client 69.220.16.126] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 10:51:33 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:33 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:34 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:34 2006] [error] jk2_init() Can't find child 32229 in scoreboard
+[Sun Jan 15 10:51:34 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:34 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 10:51:34 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:34 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:34 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:34 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:34 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:35 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:35 2006] [notice] jk2_init() Found child 32230 in scoreboard slot 2
+[Sun Jan 15 10:51:35 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:35 2006] [error] mod_jk child workerEnv in error state 6
+[Sun Jan 15 10:51:35 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:35 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:35 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:35 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:35 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:35 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:35 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:36 2006] [error] jk2_init() Can't find child 32231 in scoreboard
+[Sun Jan 15 10:51:36 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:36 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:36 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:37 2006] [error] jk2_init() Can't find child 32232 in scoreboard
+[Sun Jan 15 10:51:37 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:37 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 10:51:37 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:37 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:37 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:37 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:37 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:38 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:38 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:38 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+script not found or unable to stat
+[Sun Jan 15 10:51:38 2006] [notice] jk2_init() Found child 32233 in scoreboard slot 6
+[Sun Jan 15 10:51:38 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:38 2006] [error] mod_jk child workerEnv in error state 6
+[Sun Jan 15 10:51:38 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:38 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:38 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+script not found or unable to stat
+[Sun Jan 15 10:51:38 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:38 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:39 2006] [error] jk2_init() Can't find child 32234 in scoreboard
+[Sun Jan 15 10:51:39 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:39 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 10:51:39 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:39 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+script not found or unable to stat
+[Sun Jan 15 10:51:39 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+script not found or unable to stat
+[Sun Jan 15 10:51:39 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:40 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+script not found or unable to stat
+[Sun Jan 15 10:51:40 2006] [notice] jk2_init() Found child 32235 in scoreboard slot 9
+[Sun Jan 15 10:51:40 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:40 2006] [error] mod_jk child workerEnv in error state 6
+[Sun Jan 15 10:51:40 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:40 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:40 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+script not found or unable to stat
+script not found or unable to stat
+[Sun Jan 15 10:51:40 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 10:51:40 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:40 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 10:51:40 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:40 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:41 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:41 2006] [error] jk2_init() Can't find child 32236 in scoreboard
+[Sun Jan 15 10:51:41 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:41 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 10:51:41 2006] [error] [client 61.152.90.96] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 10:51:41 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+script not found or unable to stat
+[Sun Jan 15 10:51:41 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:41 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+script not found or unable to stat
+[Sun Jan 15 10:51:42 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+script not found or unable to stat
+[Sun Jan 15 10:51:42 2006] [error] jk2_init() Can't find child 32237 in scoreboard
+[Sun Jan 15 10:51:42 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:42 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 10:51:42 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Sun Jan 15 10:51:42 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+script not found or unable to stat
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+script not found or unable to stat
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+script not found or unable to stat
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:43 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:44 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:44 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:44 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:44 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:44 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:44 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:44 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:44 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:44 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:44 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:45 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:45 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:45 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:45 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+script not found or unable to stat
+[Sun Jan 15 10:51:45 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:45 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:46 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:46 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:46 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:46 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:46 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:46 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:46 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:47 2006] [notice] jk2_init() Found child 32238 in scoreboard slot 14
+[Sun Jan 15 10:51:47 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:47 2006] [error] mod_jk child workerEnv in error state 6
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:47 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:48 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:48 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:48 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:48 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:48 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blog
+[Sun Jan 15 10:51:48 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:48 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:48 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:49 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+script not found or unable to stat
+[Sun Jan 15 10:51:49 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:49 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:49 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:49 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:49 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:50 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:50 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:50 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:50 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:51 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+script not found or unable to stat
+[Sun Jan 15 10:51:51 2006] [error] jk2_init() Can't find child 32239 in scoreboard
+[Sun Jan 15 10:51:51 2006] [notice] workerEnv.init() ok /etc/httpd/conf/workers2.properties
+[Sun Jan 15 10:51:51 2006] [error] mod_jk child init 1 -2
+[Sun Jan 15 10:51:51 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+script not found or unable to stat
+[Sun Jan 15 10:51:51 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:51 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:51 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:52 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+script not found or unable to stat
+script not found or unable to stat
+[Sun Jan 15 10:51:52 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:52 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:52 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+script not found or unable to stat
+[Sun Jan 15 10:51:52 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:51:52 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 10:51:52 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+script not found or unable to stat
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/blogs
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+script not found or unable to stat
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 10:51:53 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:54 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:51:54 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 10:51:54 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/drupal
+[Sun Jan 15 10:51:54 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+script not found or unable to stat
+[Sun Jan 15 10:51:54 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 10:51:54 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:51:54 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 10:51:55 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:51:55 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:55 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 10:51:55 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:51:55 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 10:51:56 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 10:51:56 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 10:51:56 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:51:57 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Sun Jan 15 10:51:58 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 10:51:58 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:51:59 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 10:52:00 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:52:03 2006] [error] [client 61.152.90.96] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 10:58:51 2006] [error] [client 218.26.189.71] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 11:12:35 2006] [error] [client 61.10.7.15] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 11:42:51 2006] [error] [client 66.173.222.134] File does not exist: /var/www/html/_vti_bin
+[Sun Jan 15 11:42:51 2006] [error] [client 66.173.222.134] request failed: URI too long (longer than 8190)
+[Sun Jan 15 13:17:22 2006] [error] [client 70.183.102.78] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 13:44:07 2006] [error] [client 68.89.15.188] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 14:34:02 2006] [error] [client 68.203.209.170] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 15:20:57 2006] [error] [client 80.176.231.7] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 16:10:18 2006] [error] [client 24.228.39.92] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 16:28:34 2006] [error] [client 66.53.90.211] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 16:35:46 2006] [error] [client 218.201.254.13] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 17:10:24 2006] [error] [client 65.1.27.237] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 18:17:17 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 18:17:17 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 18:17:18 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 18:17:18 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 18:17:18 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 18:17:20 2006] [error] [client 220.134.161.152] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 18:17:21 2006] [error] [client 220.134.161.152] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 18:17:22 2006] [error] [client 220.134.161.152] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 18:17:24 2006] [error] [client 220.134.161.152] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 18:17:25 2006] [error] [client 220.134.161.152] script not found or unable to stat: /var/www/cgi-bin/awstats
+script not found or unable to stat
+script not found or unable to stat
+[Sun Jan 15 18:17:32 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/blog
+[Sun Jan 15 18:17:34 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 18:17:35 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/blog
+[Sun Jan 15 18:17:39 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/blogs
+[Sun Jan 15 18:17:42 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/drupal
+[Sun Jan 15 18:17:45 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/phpgroupware
+script not found or unable to stat
+[Sun Jan 15 18:17:54 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 18:17:55 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 18:17:59 2006] [error] [client 220.134.161.152] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 18:33:48 2006] [error] [client 12.33.188.222] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 19:00:24 2006] [error] [client 24.16.60.85] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 19:09:56 2006] [error] [client 58.210.254.90] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 19:15:19 2006] [error] [client 204.248.118.90] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 19:18:25 2006] [error] [client 206.174.28.194] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 19:53:30 2006] [error] [client 58.22.226.198] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 21:19:42 2006] [error] [client 61.116.186.69] Directory index forbidden by rule: /var/www/html/
+[Sun Jan 15 23:31:13 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 23:31:13 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 23:31:13 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 23:31:13 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 23:31:13 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 23:31:13 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 23:31:13 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 23:31:13 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 23:31:13 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/awstats/awstats.pl
+[Sun Jan 15 23:31:14 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 23:31:14 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 23:31:14 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 23:31:14 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 23:31:15 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 23:31:15 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 23:31:15 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 23:31:15 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 23:31:15 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Sun Jan 15 23:31:16 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 23:31:16 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 23:31:16 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 23:31:16 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 23:31:16 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 23:31:16 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 23:31:16 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 23:31:16 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Sun Jan 15 23:31:16 2006] [error] [client 149.132.103.59] script not found or unable to stat: /var/www/cgi-bin/awstats
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Sun Jan 15 23:31:19 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:19 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:19 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:19 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:19 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:19 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:19 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:19 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:19 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:20 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:20 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:20 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:20 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:20 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:20 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:20 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:20 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:20 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blog
+[Sun Jan 15 23:31:21 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blogs
+[Sun Jan 15 23:31:21 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blogs
+[Sun Jan 15 23:31:21 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blogs
+[Sun Jan 15 23:31:21 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blogs
+[Sun Jan 15 23:31:22 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blogs
+[Sun Jan 15 23:31:22 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blogs
+[Sun Jan 15 23:31:22 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blogs
+[Sun Jan 15 23:31:22 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blogs
+[Sun Jan 15 23:31:22 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/blogs
+[Sun Jan 15 23:31:23 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/drupal
+[Sun Jan 15 23:31:23 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/drupal
+[Sun Jan 15 23:31:23 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/drupal
+[Sun Jan 15 23:31:23 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/drupal
+[Sun Jan 15 23:31:23 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/drupal
+[Sun Jan 15 23:31:23 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/drupal
+[Sun Jan 15 23:31:23 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/drupal
+[Sun Jan 15 23:31:23 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/drupal
+[Sun Jan 15 23:31:23 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/drupal
+[Sun Jan 15 23:31:24 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 23:31:24 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 23:31:24 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 23:31:24 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 23:31:24 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 23:31:24 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 23:31:24 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 23:31:24 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 23:31:24 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/phpgroupware
+[Sun Jan 15 23:31:25 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 23:31:25 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 23:31:25 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 23:31:25 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 23:31:25 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 23:31:25 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 23:31:25 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 23:31:25 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/wordpress
+[Sun Jan 15 23:31:25 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/wordpress
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Sun Jan 15 23:31:27 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 23:31:27 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 23:31:27 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 23:31:27 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 23:31:28 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 23:31:28 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 23:31:28 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 23:31:28 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 23:31:28 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlrpc
+[Sun Jan 15 23:31:29 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 23:31:29 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 23:31:29 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 23:31:29 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 23:31:29 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 23:31:29 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 23:31:29 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 23:31:29 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlsrv
+[Sun Jan 15 23:31:29 2006] [error] [client 149.132.103.59] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 00:24:02 2006] [error] [client 218.52.137.194] Directory index forbidden by rule: /var/www/html/
+[Mon Jan 16 01:08:33 2006] [error] [client 68.145.115.98] Directory index forbidden by rule: /var/www/html/
+[Mon Jan 16 01:08:34 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:34 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:34 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:34 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:34 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:34 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:34 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:34 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:35 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:35 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:35 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:35 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:35 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:35 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:35 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:35 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:36 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:37 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:37 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:37 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:37 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 01:08:38 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:38 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:38 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 01:08:38 2006] [error] [client 66.34.225.128] script not found or unable to stat: /var/www/cgi-bin/awstats
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Mon Jan 16 01:08:39 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:39 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:39 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:39 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:39 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:39 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:39 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:39 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Mon Jan 16 01:08:40 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:40 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:40 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:40 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:40 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:40 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:40 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:40 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:41 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blog
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:42 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:43 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:43 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:43 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:43 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/blogs
+[Mon Jan 16 01:08:43 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:43 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:43 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:43 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:43 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:43 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/drupal
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:44 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:45 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:45 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:45 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:45 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:45 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:45 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+[Mon Jan 16 01:08:45 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/phpgroupware
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Mon Jan 16 01:08:46 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:46 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:46 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:46 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/wordpress
+[Mon Jan 16 01:08:47 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:47 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:47 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:47 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:47 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:47 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:47 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:47 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:48 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:49 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlrpc
+[Mon Jan 16 01:08:49 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:49 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:50 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:08:50 2006] [error] [client 66.34.225.128] File does not exist: /var/www/html/xmlsrv
+[Mon Jan 16 01:28:19 2006] [error] [client 151.196.29.245] Directory index forbidden by rule: /var/www/html/
+[Mon Jan 16 02:09:09 2006] [error] [client 82.238.44.122] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 02:09:09 2006] [error] [client 82.238.44.122] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 02:09:09 2006] [error] [client 82.238.44.122] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 02:09:09 2006] [error] [client 82.238.44.122] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 02:09:09 2006] [error] [client 82.238.44.122] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 02:09:09 2006] [error] [client 82.238.44.122] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 02:09:09 2006] [error] [client 82.238.44.122] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 02:09:09 2006] [error] [client 82.238.44.122] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 02:09:09 2006] [error] [client 82.238.44.122] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 02:09:09 2006] [error] [client 82.238.44.122] File does not exist: /var/www/html/awstats/awstats.pl
+[Mon Jan 16 02:09:10 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 02:09:10 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 02:09:10 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 02:09:10 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 02:09:10 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 02:09:10 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 02:09:10 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 02:09:10 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 02:09:10 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 02:09:10 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats.pl
+[Mon Jan 16 02:09:11 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 02:09:11 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 02:09:11 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 02:09:11 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 02:09:11 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 02:09:11 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 02:09:11 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 02:09:11 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 02:09:11 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats
+[Mon Jan 16 02:09:11 2006] [error] [client 82.238.44.122] script not found or unable to stat: /var/www/cgi-bin/awstats
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
+script not found or unable to stat
