@@ -1,5 +1,5 @@
 # HackaTUM 2023: logai Chatbot by log2win
-This repository contains our project takling the **Rhode & Schwarz** challenge track of HackaTUM 2023. 
+This repository contains our project takling the **Rohde & Schwarz** challenge track of HackaTUM 2023. 
 <p align="center">
     <img src="Logo_vertikal.svg" alt="logo" width="200"/>
 </p>
