@@ -108,8 +108,7 @@ class LogAIAgent():
         index = line_context.index(line)
         range = 10
         try:
-            return line_context[index-range:index]+line_context[index:index+range]
+            return "\n".join(line_context[index-range:index]+line_context[index:index+range])
         except:
-            print("answer line is at a border of the logfile")
             return line
     

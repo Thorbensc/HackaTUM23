@@ -112,14 +112,20 @@ if "messages" not in st.session_state:
 
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+        if message["type"] == 'md':
+            st.markdown(message["content"])
+        elif message["type"] == 'code':
+            st.code(message["content"])
 
 if prompt := st.chat_input("Ask Questions about the Log File!"):
     st.session_state.details = ''
     with st.chat_message("user"):
         st.markdown(prompt)
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    if "?" in prompt:
+    st.session_state.messages.append({"role": "user", "type": 'md', "content": prompt})
+    if "bye" in prompt.lower() or "goodbye" in prompt.lower():
+        with st.chat_message("ai"):
+            st.markdown("Happy to help! Have a nice day.")
+    elif "?" in prompt:
         model_answer = logAIAgent.find_best_answer(summary,prompt)
         template = random.choice(pos_answers)
         formatted_answer =  logAIAgent.answer2summary(model_answer,summary)
@@ -128,14 +134,15 @@ if prompt := st.chat_input("Ask Questions about the Log File!"):
             st.code(formatted_answer)
             st.markdown("Would you like to see the detailed logs?")
             st.button('Show Detailed Logs', on_click=set_details, args=(formatted_answer,))
-        st.session_state.messages.append({"role": "ai", "content": formatted_answer})
+        st.session_state.messages.append({"role": "ai", "type": 'code', "content": formatted_answer})
     else:
         template = random.choice(retry_pls)
         with st.chat_message("ai"):
             st.markdown(template)
-        st.session_state.messages.append({"role": "ai", "content": template})
+        st.session_state.messages.append({"role": "ai", "type": 'md', "content": template})
 
-st.session_state.details
+if st.session_state.details != '':
+    st.code(st.session_state.details)
 
 
 
