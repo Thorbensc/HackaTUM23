@@ -1,8 +1,8 @@
 # HackaTUM 2023: logai Chatbot by log2win
 This repository contains our project takling the **Rhode & Schwarz** challenge track of HackaTUM 2023. 
-<center>
+<p align="center">
     <img src="Logo_vertikal.svg" alt="logo" width="200"/>
-</center>
+</p>
 
 Reading log files takes hours, leads to mistake, and takes up costly ressources that could better be used elsewhere. But how can we change that? By bringing the log file to life. Our virtual assistant logai gives your log files a voice and helps you detect problems and errors in thousand lines of text with a simple question.
 
