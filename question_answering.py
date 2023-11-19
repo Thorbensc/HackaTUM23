@@ -96,7 +96,7 @@ class LogAIAgent():
     def answer2summary(self, answer, summary) -> str:
         list_summary = summary.splitlines()
         list_summary = [entry for entry in list_summary if entry]
-        distances = [Levenshtein.distance(answer, self._discard_time(entry)) for entry in list_summary]
+        distances = [Levenshtein.distance(answer[-2][0], self._discard_time(entry)) for entry in list_summary]
         # Find the index of the string with the minimum distance
         min_index = distances.index(min(distances))
         print(min_index)
